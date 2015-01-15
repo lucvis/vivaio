@@ -1,0 +1,19 @@
+<!-- File di configurazione del sito -->
+<root>
+	<guich>
+		<nick>1</nick>
+		<pwd>1</pwd>
+		<reg>1</reg>
+		<email>1</email>
+		<nome>1</nome>
+		<cognome>1</cognome>
+		<telefono>1</telefono>
+		<tipo>1</tipo>
+	</guich>
+	<db>
+		<server>localhost</server>
+		<db>vivaio</db>
+		<utente>root</utente>
+		<pass/>
+	</db>
+</root>
